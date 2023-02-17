@@ -5,10 +5,10 @@ Throughout the certification, I will be sharing my progress, notes, and code imp
 
 The courses in the specialization are:
 
-1. Natural Language Processing with Classification and Vector Spaces
-2. Natural Language Processing with Probabilistic Models
-3. Natural Language Processing with Sequence Models
-4. Natural Language Processing with Attention Models
+1. [Natural Language Processing with Classification and Vector Spaces](https://github.com/shercostiniano/Natural-Language-Processing-Specialization/tree/main/01_Natural-Language-Processing-with-Classification-and-Vector-Spaces)
+2. [Natural Language Processing with Probabilistic Models](https://github.com/shercostiniano/Natural-Language-Processing-Specialization/tree/main/02_Natural-Language-Processing-with-Probabilistic-Models)
+3. [Natural Language Processing with Sequence Models](https://github.com/shercostiniano/Natural-Language-Processing-Specialization/tree/main/03_Natural-Language-Processing-with-Sequence-Models)
+4. [Natural Language Processing with Attention Models](https://github.com/shercostiniano/Natural-Language-Processing-Specialization/tree/main/04_Natural-Language-Processing-with-Attention-Models)
 
 I will also be working on a final project at the end of the specialization to showcase my skills and knowledge in NLP. The project will involve building a real-world NLP application, such as a chatbot or a text summarizer.
 
